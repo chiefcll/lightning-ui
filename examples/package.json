@@ -1,0 +1,7 @@
+{
+  "name": "com.metrological.app.myawesomeapp",
+  "description": "Lightning Sandbox",
+  "dependencies": {
+    "wpe-lightning-sdk": "rdkcentral/Lightning-SDK"
+  }
+}
